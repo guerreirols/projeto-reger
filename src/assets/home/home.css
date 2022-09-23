@@ -1,7 +1,30 @@
-body{
+body {
     background-color: #00a16c;
 }
 
-.sombra{
-    position: absolute;
+.sombra {
+    /*background-image: url("src\\imagens\\SOMBRA.png");*/
+}
+
+.logo {
+    max-width: 45%;  
+    height: auto;  
+}
+
+.menu {
+    /*display: inline;*/
+}
+
+.botao {
+    display: inline;  
+    padding: 15px;
+}
+
+.bola {
+    max-width: 14%;  
+    height: auto; 
+}
+
+.noHover{
+    pointer-events: none;
 }
