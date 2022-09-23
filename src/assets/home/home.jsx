@@ -27,6 +27,9 @@ function Home(){
                         <li class = 'botao'>  
                             <input class = 'bola' type="image" src="src\imagens\BOTAO6.png"/>  
                         </li> 
+                        <li class = 'botao'>  
+                            <input class = 'bola' type="image" src="src\imagens\MATEUS.png"/>  
+                        </li> 
                     </ul>  
                 </nav>  
             </div>
