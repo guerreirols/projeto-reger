@@ -1,11 +1,16 @@
+main {
+  text-align: center;
+}
+
 body {
   background-color: #00a16c;
   background-image: url("src\\imagens\\SOMBRA.png");
   text-align: center;
+  display: block;
 }
 
 .logo {
-  max-width: 450px;
+  max-width: 550px;
   margin: auto;
   padding: 2rem;
   text-align: center;
@@ -26,6 +31,6 @@ body {
   height: auto; 
 }
 
-.noHover{
+.noHover {
   pointer-events: none;
 }
