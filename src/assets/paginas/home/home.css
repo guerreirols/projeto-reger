@@ -1,0 +1,12 @@
+.corpo-home{
+    background-image: url("src\\assets\\imagens\\fundo.jpg");
+    text-align: center;
+}
+
+.menu-home {
+    display: flex;
+    background: lightblue;
+    width: 70%;
+    height: 800px;
+    text-align: center;
+}
