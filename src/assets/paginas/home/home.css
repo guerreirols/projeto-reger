@@ -3,10 +3,40 @@
     text-align: center;
 }
 
+.imagem-volume{
+    margin-top: 1%;
+    width: 50px;
+    height: 50px;
+}
+
 .menu-home {
-    display: flex;
-    background: lightblue;
-    width: 70%;
-    height: 800px;
     text-align: center;
+    display: inline-block;
+    background-image: url("src\\assets\\imagens\\fundodesfocado.jpg");
+    width: 65%;
+    height: 750px;
+    margin-top: 2%;
+    margin-bottom: 5%;
+}
+
+.menu {
+    display: inline-flex;
+    margin-top: 40px;
+}
+
+.icone {
+    text-align: center;
+    display: block;  
+    padding: 45px;
+}
+
+.bola {
+    text-align: center;
+    max-width: 15%;  
+    height: auto; 
+}
+
+.titulo-icone {
+    text-align: center;
+    color: white;
 }
