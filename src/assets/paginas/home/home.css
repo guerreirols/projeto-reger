@@ -20,23 +20,27 @@
 }
 
 .menu {
-    display: inline-flex;
+    display:inline-flex;
     margin-top: 40px;
 }
 
 .icone {
     text-align: center;
-    display: block;  
-    padding: 45px;
+    display:table-row;
 }
 
-.bola {
-    text-align: center;
-    max-width: 15%;  
+.imagem-icone {
+    max-width: 50%;  
     height: auto; 
+    margin-top: 50px;
 }
 
 .titulo-icone {
     text-align: center;
+    text-transform: lowercase;
+    font-family: 'ABeeZee', sans-serif;
     color: white;
+    position: relative;
+    font-size: 30px;
+    margin-top: 5px;
 }
