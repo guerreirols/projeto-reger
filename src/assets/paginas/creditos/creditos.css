@@ -1,0 +1,49 @@
+.rodape-geral {
+    text-align: center;
+}
+
+.rodape {
+    background-color: rgb(16, 70, 38);
+    padding: 2%;
+}
+
+.creditos-titulo {
+    color: rgb(255, 255, 255);
+    font-family: 'Montserrat', sans-serif;
+}
+
+.desenvolvedores {
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    padding: 1%;
+}
+
+.dev-titulo {
+    color: rgb(255, 255, 255);
+    margin-bottom: 4%;
+    font-family:'Montserrat', sans-serif;
+}
+
+.dev {
+    color: rgb(255, 255, 255);
+    line-height: 23px;
+    font-family:'Montserrat', sans-serif;
+}
+
+.orientadores {
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    position: absolute;
+}
+
+.ori-titulo {
+    color: rgb(255, 255, 255);
+    margin-bottom: 4%;
+    font-family:'Montserrat', sans-serif;
+}
+
+.ori {
+    color: rgb(255, 255, 255);
+    line-height: 23px;
+    font-family:'Montserrat', sans-serif;
+}

@@ -7,6 +7,7 @@ import Comofazemos from './assets/paginas/como_fazemos/como_fazemos'
 import Crescemos from './assets/paginas/crescemos/crescemos'
 import Ondeestamos from './assets/paginas/onde_estamos/onde_estamos'
 import Dicas from './assets/paginas/dicas/dicas'
+import Creditos from './assets/paginas/creditos/creditos'
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         <Crescemos/>
         <Ondeestamos/>
         <Dicas/>
+        <Creditos/>
       </main>
     </>
   )
