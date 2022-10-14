@@ -18,26 +18,26 @@ function Home() {
                         <h4 class = "titulo-icone" >O Projeto</h4>
                     </li>  
                     <li class = 'icone'>  
-                        <input class = "imagem-icone" type="image" src="src\assets\imagens\folha.png" />  
+                        <input class = "imagem-icone" type="image" src="src\assets\imagens\ALVO.png" />  
                         <h4 class = 'titulo-icone' >O Que Fazemos</h4>
                     </li>  
                     <li class = 'icone'>  
-                        <input class = "imagem-icone" type="image" src="src\assets\imagens\folha.png" /> 
+                        <input class = "imagem-icone" type="image" src="src\assets\imagens\COMOFAZEMOS.png" /> 
                         <h4 class = 'titulo-icone' >Como Fazemos</h4>
                     </li>  
                 </ul>  
                 
                 <ul class = "menu">
                     <li class = 'icone'>                              
-                        <input class = "imagem-icone" type="image" src="src\assets\imagens\folha.png"/>
+                        <input class = "imagem-icone" type="image" src="src\assets\imagens\CRESCEMOS.png"/>
                         <h4 class = "titulo-icone" >Crescemos</h4>
                     </li>  
                     <li class = 'icone'>  
-                        <input class = "imagem-icone" type="image" src="src\assets\imagens\folha.png" />  
+                        <input class = "imagem-icone" type="image" src="src\assets\imagens\ONDEESTAMOS.png" />  
                         <h4 class = 'titulo-icone' >Onde Estamos</h4>
                     </li>  
                     <li class = 'icone'>  
-                        <input class = "imagem-icone" type="image" src="src\assets\imagens\folha.png" /> 
+                        <input class = "imagem-icone" type="image" src="src\assets\imagens\LAMPADA.png" /> 
                         <h4 class = 'titulo-icone' >Dicas</h4>
                     </li>  
                 </ul>          
