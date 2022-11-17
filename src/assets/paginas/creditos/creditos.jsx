@@ -8,7 +8,7 @@ function Creditos() {
           @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;900&display=swap');
         </style>
 
-        <section class="rodape-geral">
+        <section class="rodape-geral" style={{backgroundImage: 'url("assets/imagens/fundodesfocado.jpg")'}}>
           <div class="rodape">        
               <div class="desenvolvedores">     
                 <div class="cc">

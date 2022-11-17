@@ -7,8 +7,8 @@ function Home() {
             @import url('https://fonts.googleapis.com/css2?family=ABeeZee&display=swap');
         </style>
         
-        <div class = "corpo-home">       
-            <div class = "menu-home">
+        <div class = "corpo-home" style={{backgroundImage: 'url("assets/imagens/fundo.jpg")'}}>       
+            <div class = "menu-home" style={{backgroundImage: 'url("assets/imagens/fundodesfocado.jpg")'}}>
                 <h1 class ="texto-explore">explore um pouco mais sobre o nosso projeto!</h1>
                 <ul class = "menu">
                     <li class = 'icone'>

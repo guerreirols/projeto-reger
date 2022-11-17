@@ -1,5 +1,4 @@
 .corpo-home{
-    background-image: url("assets\\imagens\\fundo.jpg");
     text-align: center;
 }
 
@@ -12,7 +11,6 @@
 .menu-home {
     text-align: center;
     display: inline-block;
-    background-image: url("assets\\imagens\\fundodesfocado.jpg");
     width: 50%;
     height: 650px;
     margin-top: 5%;
