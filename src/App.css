@@ -6,6 +6,25 @@ html {
   scroll-behavior: smooth;
 }
 
+#reger-home{
+  padding:0.5%;
+  margin-left: 1%;
+  background:rgb(19, 43, 11);
+  position:fixed;
+  border-radius: 30px;
+  top:95%;  
+}
+
+.reger-link {
+  text-decoration:none
+}
+
+.titulo-botao {
+  color: rgb(255, 255, 255);
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+
 /*body {
   background-color: #00a16c;
   background-image: url("src\\imagens\\SOMBRA.png");

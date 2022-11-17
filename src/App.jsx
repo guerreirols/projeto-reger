@@ -19,6 +19,12 @@ function App() {
       </style>
 
       <main>
+        <div id="reger-home">
+	        <a class="reger-link" href="#header"> 
+            <h1 class="titulo-botao">REGER</h1>
+          </a>	
+	      </div>
+
         <Header/>
         <Home/>
         <Oprojeto/>

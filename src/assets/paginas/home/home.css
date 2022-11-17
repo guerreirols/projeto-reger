@@ -31,7 +31,6 @@
 
 .icone {
     text-align: center;
-    display:table-row;
 }
 
 .imagem-icone {
@@ -49,3 +48,17 @@
     font-size: 30px;
     margin-top: 5px;
 }
+
+@media (max-width: 600px) {
+    .menu {
+        display:inline;
+        margin-top: 1%;
+    }
+
+    .menu-home {
+        text-align: center;
+        height: 100%;
+        margin-top: 5%;
+        margin-bottom: 10%;
+    }
+  }
