@@ -13,19 +13,19 @@ function Home() {
                 <ul class = "menu">
                     <li class = 'icone'>
                         <a href="#o-projeto">
-                            <input href="#o-projeto" class = "imagem-icone" type="image" src="src\assets\imagens\folha.png"/>
+                            <input href="#o-projeto" class = "imagem-icone" type="image" src="\assets\imagens\folha.png"/>
                         </a>                                      
                         <h4 class = "titulo-icone" >O Projeto</h4>
                     </li>  
                     <li class = 'icone'>  
                         <a href="#o-que-fazemos">
-                            <input class = "imagem-icone" type="image" src="src\assets\imagens\ALVO.png" /> 
+                            <input class = "imagem-icone" type="image" src="\assets\imagens\ALVO.png" /> 
                         </a>                  
                         <h4 class = 'titulo-icone' >O Que Fazemos</h4>
                     </li>  
                     <li class = 'icone'>  
                         <a href="#como-fazemos">
-                            <input class = "imagem-icone" type="image" src="src\assets\imagens\COMOFAZEMOS.png" />
+                            <input class = "imagem-icone" type="image" src="\assets\imagens\COMOFAZEMOS.png" />
                         </a>                 
                         <h4 class = 'titulo-icone' >Como Fazemos</h4>
                     </li>  
@@ -34,19 +34,19 @@ function Home() {
                 <ul class = "menu">
                     <li class = 'icone'>  
                         <a href="#crescemos">
-                            <input class = "imagem-icone" type="image" src="src\assets\imagens\CRESCEMOS.png"/>
+                            <input class = "imagem-icone" type="image" src="\assets\imagens\CRESCEMOS.png"/>
                         </a>                  
                         <h4 class = "titulo-icone" >Crescemos</h4>
                     </li>  
                     <li class = 'icone'>
                         <a href="#onde-estamos">
-                            <input class = "imagem-icone" type="image" src="src\assets\imagens\ONDEESTAMOS.png" />
+                            <input class = "imagem-icone" type="image" src="\assets\imagens\ONDEESTAMOS.png" />
                         </a>          
                         <h4 class = 'titulo-icone' >Onde Estamos</h4>
                     </li>  
                     <li class = 'icone'>  
                         <a href="#dicas">
-                            <input class = "imagem-icone" type="image" src="src\assets\imagens\LAMPADA.png" />
+                            <input class = "imagem-icone" type="image" src="\assets\imagens\LAMPADA.png" />
                         </a>       
                         <h4 class = 'titulo-icone' >Dicas</h4>
                     </li>  

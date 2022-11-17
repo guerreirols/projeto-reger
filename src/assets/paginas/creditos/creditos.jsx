@@ -30,7 +30,7 @@ function Creditos() {
                   <h3 class="ori">Sileide Paccola (Design)</h3>
                 </div>                                               
               </div>
-              <img class="reger-logo" src='src\assets\imagens\REGER-CAPA.png'/>
+              <img class="reger-logo" src='assets\imagens\REGER-CAPA.png'/>
           </div>
         </section>        
       </>
