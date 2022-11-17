@@ -1,0 +1,18 @@
+.cabecalho {
+    background-image: url("src\\assets\\imagens\\fundodesfocado.jpg");
+    text-align: center;
+    padding: 1%;
+}
+
+.titulo-cabecalho {
+    font-size: 48px;
+    color: rgb(255, 255, 255);
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+.titulo-frase {
+    margin-top: 0.5%;
+    font-size: 26px;
+    color: rgb(209, 225, 64);
+    font-family: 'Roboto Condensed', sans-serif;
+}

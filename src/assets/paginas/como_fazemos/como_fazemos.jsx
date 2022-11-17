@@ -6,7 +6,7 @@ function Comofazemos() {
             @import url('https://fonts.googleapis.com/css2?family=ABeeZee&family=M+PLUS+Rounded+1c:wght@700&display=swap');
         </style>
       
-        <section  class = "secao">
+        <section id="como-fazemos" class = "secao">
             <h1 class = "titulo">COMO FAZEMOS</h1>
             <h2 class = "conteudo">
                 <p>

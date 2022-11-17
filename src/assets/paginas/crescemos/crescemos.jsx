@@ -6,17 +6,14 @@ function Crescemos() {
             @import url('https://fonts.googleapis.com/css2?family=ABeeZee&family=M+PLUS+Rounded+1c:wght@700&display=swap');
         </style>
       
-        <section  class = "secao">
+        <section id="crescemos" class = "secao">
             <h1 class = "titulo">CRESCEMOS</h1>
             <h2 class = "conteudo">
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce quis luctus leo, non accumsan 
-                    ipsum. Praesent eget tortor non libero lobortis commodo eu eu diam. Proin et ante et nunc viverra posuere. Ut quis sollicitudin tortor. Aliquam suscipit mattis ex ac laoreet. Ut suscipit commodo
-                    interdum. Quisque vel lorem sit amet nunc elementum congue. Sed quis lectus vel eros auctor eleifend. 
-                    Pellentesque quis velit sed sapien elementum porta. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam sit amet metus ut urna molestie feugiat mattis 
-                    a sem. Nulla bibendum consectetur justo in mattis. Nullam eget felis eu velit finibus 
-                    tincidunt. Donec ut egestas ipsum, sit amet laoreet tortor.
-
+                    A princípio o projeto agiu em sua maioria dentro da universidade, porém temos como ambição conscientizar não apenas os alunos, funcionários 
+                    e professores em relação ao descarte correto, 
+                    mas também todo o país. Não satisfeito, podemos alcançar o mundo com nosso projeto, se 
+                    tivermos incentivo suficiente e voluntários interessados à participar.  
                 </p>
                 <br/>
                 <p>

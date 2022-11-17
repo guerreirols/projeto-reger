@@ -1,7 +1,7 @@
 function Oprojeto() {
     return (
       <>
-        <section class="o-projeto">
+        <section id="o-projeto" class="o-projeto">
             <style>
                 @import url('https://fonts.googleapis.com/css2?family=ABeeZee&display=swap');
                 @import url('https://fonts.googleapis.com/css2?family=ABeeZee&family=M+PLUS+Rounded+1c:wght@700&display=swap');
@@ -11,12 +11,9 @@ function Oprojeto() {
                 <h1 class = "titulo">O PROJETO</h1>
                 <h2 class = "conteudo">
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce quis luctus leo, non accumsan 
-                        ipsum. Praesent eget tortor non libero lobortis commodo eu eu diam. Proin et ante et nunc viverra posuere. Ut quis sollicitudin tortor. Aliquam suscipit mattis ex ac laoreet. Ut suscipit commodo
-                        interdum. Quisque vel lorem sit amet nunc elementum congue. Sed quis lectus vel eros auctor eleifend. 
-                        Pellentesque quis velit sed sapien elementum porta. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam sit amet metus ut urna molestie feugiat mattis 
-                        a sem. Nulla bibendum consectetur justo in mattis. Nullam eget felis eu velit finibus 
-                        tincidunt. Donec ut egestas ipsum, sit amet laoreet tortor.
+                        O projeto REGER (Redução da Geração de Resíduos) é uma iniciativa da UNISAGRADO, fundada no ano de 2016, 
+                        tem como objetivo orientar aqueles que frequentam o campus sobre o descarte correto de resíduos, e a redução desse, 
+                        além disso, busca tornar concreto o assunto sustentabilidade no cenário institucional. 
 
                     </p>
                     <br/>

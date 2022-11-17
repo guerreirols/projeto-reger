@@ -13,15 +13,22 @@
     text-align: center;
     display: inline-block;
     background-image: url("src\\assets\\imagens\\fundodesfocado.jpg");
-    width: 65%;
-    height: 750px;
-    margin-top: 2%;
+    width: 50%;
+    height: 650px;
+    margin-top: 5%;
     margin-bottom: 5%;
+}
+
+.texto-explore {
+  margin-top: 5%;  
+  font-size: 38px;
+  color: white;
+  font-family: 'ABeeZee', sans-serif;
 }
 
 .menu {
     display:inline-flex;
-    margin-top: 40px;
+    margin-top: 1%;
 }
 
 .icone {

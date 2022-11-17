@@ -6,7 +6,7 @@ function Ondeestamos() {
             @import url('https://fonts.googleapis.com/css2?family=ABeeZee&family=M+PLUS+Rounded+1c:wght@700&display=swap');
         </style>
       
-        <section  class = "secao">
+        <section id="onde-estamos" class = "secao">
             <h1 class = "titulo">ONDE ESTAMOS</h1>
             <h2 class = "conteudo">
                 <p>
