@@ -15,14 +15,6 @@ function Crescemos() {
                     mas também todo o país. Não satisfeito, podemos alcançar o mundo com nosso projeto, se 
                     tivermos incentivo suficiente e voluntários interessados à participar.  
                 </p>
-                <br/>
-                <p>
-                    Phasellus varius ipsum id quam porttitor, sed imperdiet eros ultricies. Praesent sagittis ante eu felis venenatis, condimentum varius lectus efficitur. 
-                    Aenean fermentum lacus quis magna varius scelerisque. 
-                    Donec vestibulum, augue id consequat sodales, purus nisi malesuada metus, a aliquam felis enim at dui. Fusce consectetur 
-                    tincidunt velit at tincidunt. Maecenas sed vulputate risus. Nulla placerat diam ut 
-                    ultrices commodo.
-                </p>            
             </h2>
         </section>
       </>

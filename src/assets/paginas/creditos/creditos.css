@@ -66,3 +66,10 @@
     max-block-size: 200px ;   
     margin-left: 1%;
 }
+
+@media (max-width: 600px) {
+    .reger-logo {
+        max-block-size: 100px ;   
+        margin-left: 1%;
+    }
+  }

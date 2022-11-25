@@ -10,22 +10,23 @@ function Comofazemos() {
             <h1 class = "titulo">COMO FAZEMOS</h1>
             <h2 class = "conteudo">
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce quis luctus leo, non accumsan 
-                    ipsum. Praesent eget tortor non libero lobortis commodo eu eu diam. Proin et ante et nunc viverra posuere. Ut quis sollicitudin tortor. Aliquam suscipit mattis ex ac laoreet. Ut suscipit commodo
-                    interdum. Quisque vel lorem sit amet nunc elementum congue. Sed quis lectus vel eros auctor eleifend. 
-                    Pellentesque quis velit sed sapien elementum porta. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam sit amet metus ut urna molestie feugiat mattis 
-                    a sem. Nulla bibendum consectetur justo in mattis. Nullam eget felis eu velit finibus 
-                    tincidunt. Donec ut egestas ipsum, sit amet laoreet tortor.
-
+                    O projeto foi desenvolvido através de etapas, sendo elas: 
+                    
+                    <ol>
+                        <br/>
+                        <li>- Diagnóstico, para que possamos ter noção da situação com o passar do tempo e termos uma base para sabermos qual será o destino dos resíduos; </li>
+                        <br/>
+                        <li>- Elaboração de proposta, para com base nos resultados do diagnóstico podermos criar propostas para dar o destino correto para tais resíduos;</li>
+                        <br/>
+                        <li>- Conscientização, para que não somente os colaboradores do projeto, mas também as pessoas que frequentam o campus de forma geral possam ajudar, mesmo que somente fazendo o descarte correto de resíduos</li>
+                        <br/>
+                        <li>- Implementação das propostas, para efetuar as mudanças propostas anteriormente</li>
+                        <br/>
+                        <li>- Mudança de paradigmas, para que seja padrão no campus as mudanças propostas na conscientização</li>
+                        <br/>
+                        <li>- incorporação de rotina, para que as mudanças sejam de fato parte da rotina e sejam executadas normalmente </li>
+                    </ol>
                 </p>
-                <br/>
-                <p>
-                    Phasellus varius ipsum id quam porttitor, sed imperdiet eros ultricies. Praesent sagittis ante eu felis venenatis, condimentum varius lectus efficitur. 
-                    Aenean fermentum lacus quis magna varius scelerisque. 
-                    Donec vestibulum, augue id consequat sodales, purus nisi malesuada metus, a aliquam felis enim at dui. Fusce consectetur 
-                    tincidunt velit at tincidunt. Maecenas sed vulputate risus. Nulla placerat diam ut 
-                    ultrices commodo.
-                </p>            
             </h2>
         </section>
       </>
